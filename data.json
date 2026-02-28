@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "users": {
+    "4260928735": {
+      "role": "Admin",
+      "name": "test",
+      "password": {
+        "salt": "8534dacb75387849cd7fb308caa9b015",
+        "hash": "0b983d4c167891165159293943cb58cc5414e1828930813ce9211c7b528be6cd"
+      },
+      "client_unique_id": "test"
+    }
+  },
+  "hosts": {}
+}
