@@ -11,5 +11,16 @@
       "client_unique_id": "test"
     }
   },
-  "hosts": {}
+  "hosts": {
+    "0": {
+      "owner": 4260928735,
+      "address": "localhost",
+      "http_port": 47989,
+      "pair_info": null,
+      "cache": {
+        "name": "Default",
+        "mac": null
+      }
+    }
+  }
 }
